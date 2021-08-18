@@ -1,0 +1,120 @@
+
+body
+{
+	background-image:url("bground.jpg") ;
+	color: black;
+	font-size:2em;
+	font-family: Comic Sans MS, Arial ;
+	text-align: center ;
+	background-attachment: fixed;
+    text-shadow: 2px 2px 4px black;
+}
+		
+
+table
+{
+	color: black;
+	text-align:center ;
+	font-family: Comic Sans MS, Arial ;
+	font-size:2.5em;
+}
+a
+{
+	color: black;
+	text-align:center ;
+	font-family: Comic Sans MS, Arial ;
+}
+h1
+{
+	color: black;
+	font-size:2.2em;
+	font-family: Comic Sans MS, Arial ;
+	text-align: center ;
+	background-attachment: fixed;
+    text-shadow: 2px 2px 4px black;
+}
+h2
+{
+	color: black;
+	font-size:2em;
+	font-family: Comic Sans MS, Arial ;
+	text-align: center ;
+	background-attachment: fixed;
+    text-shadow: 2px 2px 4px black;
+}
+.tftable th 
+{
+	
+   background-color:white;
+   font-size:30px;
+   border-width: 1px;
+   border-style: solid;
+   text-align:center;
+   border: 3px #D60928 outset;
+   box-shadow: 10px 10px 6px #5D0000;
+   
+	padding-bottom: 0.2em;
+	padding-top: 0.2em ;
+   
+}
+.tftable t
+{
+	
+   background-color:white;
+   font-size:30px;
+   border-width: 1px;
+   border-style: solid;
+   text-align:center;
+   border: 3px #D60928 outset;
+   box-shadow: 10px 10px 6px #5D0000;
+}
+
+.tftable {font-size:100px;width:100%;border-width: 0px;}
+.tftable tr {
+	box-shadow: 6px 6px 6px black inset;
+}
+a:hover
+{
+	text-decoration:blink
+}
+
+
+.texte
+
+{
+	text-align:center ;
+	font-size:1.5em;
+	font-family: Comic Sans MS, Arial ;
+	
+	
+}
+.croquis
+{
+	max-width: 75%;
+}
+.txt
+{
+	color: black;
+	font-size:2em;
+	font-family: Comic Sans MS, Arial ;
+	text-align: center ;
+	background-attachment: fixed;
+    text-shadow: 2px 2px 4px black;
+}
+.logo 
+
+{
+	max-width: 50%;
+}
+#conteneur
+{
+    display: flex ;
+	justify-content: center;
+	margin: 2px 15px 2px 15px;
+
+}
+
+.element
+{
+    margin: 2px 15px 2px 15px;
+}
